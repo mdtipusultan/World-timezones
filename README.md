@@ -1,8 +1,8 @@
 # World-timezones
 
-![Alt Text](https://imgur.com/CTaptNm)
-![Alt Text](https://imgur.com/JLnSDC6)
-![Alt Text](https://imgur.com/DGy3aQU)
+![Alt Text](https://imgur.com/CTaptNm.png)
+![Alt Text](https://imgur.com/JLnSDC6.png)
+![Alt Text](https://imgur.com/DGy3aQU.png)
 
 
 https://imgur.com/CTaptNm
